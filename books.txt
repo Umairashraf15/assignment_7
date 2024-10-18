@@ -1,0 +1,6 @@
+101,To Kill a Mockingbird,Harper Lee,True
+102,Pride and Prejudice,Jane Austen,True
+101,To Kill a Mockingbird,Harper Lee,False
+102,Pride and Prejudice,Jane Austen,True
+101,To Kill a Mockingbird,Harper Lee,True
+102,Pride and Prejudice,Jane Austen,True
